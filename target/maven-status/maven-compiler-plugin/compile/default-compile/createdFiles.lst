@@ -1,0 +1,6 @@
+com\unicauca\figures\domain\models\Circle.class
+com\unicauca\figures\FiguresApp.class
+com\unicauca\figures\domain\models\Figure.class
+com\unicauca\figures\domain\presentation\GUICircle$1.class
+com\unicauca\figures\domain\presentation\GUICircle$2.class
+com\unicauca\figures\domain\presentation\GUICircle.class
